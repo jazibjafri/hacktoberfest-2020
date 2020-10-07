@@ -2,7 +2,7 @@
 
 using System;  
 
-  public class FibonacciExample  
+  public class fibonacci
    {  
      public static void Main(string[] args)  
       {  

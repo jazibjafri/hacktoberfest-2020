@@ -1,5 +1,5 @@
 // A function that checks if some number, n, is prime.
-const test_prime = (n) => {
+const isPrime = (n) => {
   if (n === 1) {
     return false;
   } else if (n === 2) {

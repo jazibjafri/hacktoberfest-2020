@@ -1,3 +1,5 @@
+# This function returns the fibonacci series
+
 def fibonacci(inp) :
 
     answer = ""

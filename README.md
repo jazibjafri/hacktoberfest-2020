@@ -1,6 +1,10 @@
+### READ THIS FIRST: [IMPORTANT](https://github.com/JazibJafri/hacktoberfest-2020/issues/20) :warning:
+
 # Hacktoberfest 2020
 
-## Make a Pull Request this Hacktober!
+## Make a **QUALITY** Pull Request this Hacktober!
+
+#### Remember Quality is Key
 
 ## Motivation
 I noticed people who are new to open source were making pull requests in popular repos, but their pull request were either *low-quality* or *did not follow rules & guidelines*. Due to which maintainers of the repository had no choice but to close their pull request. And a closed pull request can discourage anyone. But we as community do not want newcomers do give up, we were all there once. So **I invite all of you to create a pull request in this repo, whether it be your first or not, you are allowed to open a pull request**. I have set up simple rules & guidelines (below) so newcomers get the idea of how to make quality pull requests in popular repos in the future, if not this hacktober then the next one. Cheers.

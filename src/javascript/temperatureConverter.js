@@ -3,7 +3,7 @@ const tempConverter = (fahrenheit) => {
   return celsius;
 };
 
-let fahrenheit = 55;
+let fahrenheit = 45;
 
 let result = tempConverter(fahrenheit).toFixed(3);
 console.log(result);

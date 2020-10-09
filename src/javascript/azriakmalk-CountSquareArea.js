@@ -1,4 +1,4 @@
 //the function is count square area
-const Square = (n) => {
+const CountSquareArea = (n) => {
   return n * n;
 };

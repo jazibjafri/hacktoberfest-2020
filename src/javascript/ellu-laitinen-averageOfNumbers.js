@@ -12,4 +12,5 @@ const averageOfNumbers = () => {
     return average;
 }
 
+
 averageOfNumbers()

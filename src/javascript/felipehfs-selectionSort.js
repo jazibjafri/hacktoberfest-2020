@@ -1,4 +1,4 @@
-
+// function to sort an array using selection sort
 function selectionSort(array) {
     let newArray = [...array];
     

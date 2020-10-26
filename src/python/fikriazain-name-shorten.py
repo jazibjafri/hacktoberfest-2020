@@ -2,7 +2,7 @@
 #  For example Michael Henderson --> Henderson, M.
 #  Hope you enjoy
 
-def name_shortener(user_name):
+def name_shorten(user_name):
 	name_lst = user_name.split()
 
 	print(name_lst[-1].capitalize(), end = '')
@@ -15,4 +15,4 @@ def name_shortener(user_name):
 		# print first word with capital ' <huruf awal nama 1 kata dengan kapital>.'
 		print(' ' + name_lst[i][0].capitalize(), end = '.') 
 
-name_shortener(user_name)
+name_shorten('Michael Henderson')

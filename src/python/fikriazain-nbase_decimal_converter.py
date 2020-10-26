@@ -1,3 +1,5 @@
+#  Convert N base number to decimal number
+
 def nbase_decimal_converter(number_input, n_base):
     '''Converted N base number to decimal number
     Keyword arguments:
